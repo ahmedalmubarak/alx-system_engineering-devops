@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cd /root/home
+=======
+cd ~/
+>>>>>>> 6f8ce5142a9ae569f3184892bc71cda9140294c0
